@@ -1,9 +1,5 @@
-<html>
-<head>
- </head>
-<body>
-<center>
-(https://github-readme-stats.vercel.app/api?username=ArekSejk)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArekSejk)](https://github.com/anuraghazra/github-readme-stats)
  
 # About me
 
@@ -31,6 +27,5 @@ My name is Arek and i'm currently starting to learn Java Script! Can't wait! :st
  <source media="(prefers-color-scheme: light)" srcset="https://picsum.photos/300/300?grayscale">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
- </center>
- </body>
-</html>
+
+
