@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://www.pexels.com/pl-pl/zdjecie/apple-ceglana-sciana-czarno-bialy-ekran-169573/">
 <!--
 **ArekSejk/ArekSejk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
