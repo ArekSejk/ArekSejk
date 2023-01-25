@@ -9,9 +9,9 @@ My name is Arek and i'm currently starting to learn Java Script! Can't wait! :st
 >In my free time i spend hours:
 - jogging
  - coding
- - basketball
+ - plaing basketball
  - traveling 
- - family activities
+ - on family activities
  
  > I try to become a frontend developer but i need more time:)
 
